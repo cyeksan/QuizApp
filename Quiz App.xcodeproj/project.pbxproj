@@ -45,6 +45,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		8733CECC2A8879CB00255170 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				87CB00BA2A87798700738561 /* Question.swift */,
+				87CB00BF2A87AC9F00738561 /* QuizBrain.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
 		87ABD28D2A866512001A4E9E = {
 			isa = PBXGroup;
 			children = (
@@ -67,7 +76,7 @@
 			children = (
 				87ABD2992A866512001A4E9E /* AppDelegate.swift */,
 				87ABD29B2A866512001A4E9E /* SceneDelegate.swift */,
-				87CB00BE2A87AC7600738561 /* Model */,
+				8733CECC2A8879CB00255170 /* Model */,
 				87CB00BC2A87AC5C00738561 /* View */,
 				87CB00BD2A87AC6B00738561 /* Controller */,
 				87ABD2B32A8665C6001A4E9E /* Colors.xcassets */,
@@ -92,15 +101,6 @@
 				87ABD29D2A866512001A4E9E /* ViewController.swift */,
 			);
 			path = Controller;
-			sourceTree = "<group>";
-		};
-		87CB00BE2A87AC7600738561 /* Model */ = {
-			isa = PBXGroup;
-			children = (
-				87CB00BA2A87798700738561 /* Question.swift */,
-				87CB00BF2A87AC9F00738561 /* QuizBrain.swift */,
-			);
-			name = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
