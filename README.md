@@ -1,6 +1,6 @@
 # QuizApp
 
-A quiz app with 12 questions in Swift. It prints the score on console.
+A quiz app with 12 questions in Swift. It prints the score on console. 
 
 MVC pattern has been used.
 
